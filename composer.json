@@ -1,0 +1,16 @@
+{
+    "name": "user/agendamento",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "User\\Agendamento\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Margareth Sasaki",
+            "email": "magasasaki@gmail.com"
+        }
+    ],
+    "require": {}
+}
